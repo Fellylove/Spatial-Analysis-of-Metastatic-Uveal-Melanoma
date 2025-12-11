@@ -1,4 +1,3 @@
-# Spatial-Analysis-of-Metastatic-Uveal-Melanoma
 # Spatial Transcriptomics Analysis of Metastatic Uveal Melanoma
 
 ## Overview
